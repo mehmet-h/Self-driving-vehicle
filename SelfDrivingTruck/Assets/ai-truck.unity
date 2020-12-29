@@ -301,7 +301,7 @@ PrefabInstance:
     - target: {fileID: 114065706518498594, guid: 92ef896797e4ad24ea2f5112ca77c400,
         type: 3}
       propertyPath: wantedSpeed
-      value: 30
+      value: 20
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 92ef896797e4ad24ea2f5112ca77c400, type: 3}
@@ -933,6 +933,11 @@ PrefabInstance:
     - target: {fileID: 4670314733349732, guid: c5ac05187969192449a3f31d0353b902, type: 3}
       propertyPath: m_RootOrder
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 54331455201893148, guid: c5ac05187969192449a3f31d0353b902,
+        type: 3}
+      propertyPath: m_Mass
+      value: 3000
       objectReference: {fileID: 0}
     - target: {fileID: 153930304098373304, guid: c5ac05187969192449a3f31d0353b902,
         type: 3}

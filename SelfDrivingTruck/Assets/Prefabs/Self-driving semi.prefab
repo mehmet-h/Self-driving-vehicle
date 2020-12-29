@@ -15610,7 +15610,7 @@ WheelCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1725501433424240}
   m_Center: {x: 0, y: 0, z: 0}
-  m_Radius: 0.27
+  m_Radius: 0.48
   m_SuspensionSpring:
     spring: 90000
     damper: 30000
